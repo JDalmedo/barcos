@@ -10,7 +10,7 @@ body {
     background-image: url(./assets/imgs/background.webp) ;
     background-attachment: fixed;
     background-size: cover;
-    height: 800vh;
+    height: 100vh;
 }
 nav > ul {
     
